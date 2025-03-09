@@ -7,15 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/salahddik" target="blank"><img src="https://img.shields.io/twitter/follow/salahddik?logo=twitter&style=for-the-badge" alt="salahddik"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Web App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 Learning: DevOps & Cloud Technologies
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about: **NET 8-9, Angular, Next.js, Azure, Amazon AWS, and Docker**
 
 - 📫 How to reach me **diksalaheddine@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact: **I love coding and cracking jokes!** 😄
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
